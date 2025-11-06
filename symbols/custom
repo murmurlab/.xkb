@@ -1,0 +1,9 @@
+default partial alphanumeric_keys
+xkb_symbols "arrows" {
+    include "us(colemak)";
+    
+    key <AD07> { [ u, U, Up, Up ] };
+    key <AD08> { [ i, I, Right, Right ] };
+    key <AD09> { [ o, O, Down, Down ] };
+    key <AC06> { [ n, N, Left, Left ] };
+};

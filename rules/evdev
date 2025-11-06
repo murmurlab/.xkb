@@ -1,0 +1,6 @@
+! option		=	symbols
+  lv3:rwin_switch	=	+level3(rwin_switch)
+! variant		=	symbols
+  arrows		=	mycolemak(arrows)
+! layout		=	symbols
+  mycolemak		=	mycolemak
